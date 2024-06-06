@@ -3,5 +3,5 @@
 
 Usage
 ```
-curl -sSL https://raw.githubusercontent.com/iscodeminister/lazydata/main/install.sh | sudo bash
+curl -sSL -O https://raw.githubusercontent.com/iscodeminister/lazydata/main/run.sh && chmod +x run.sh && ./run.sh
 ```
